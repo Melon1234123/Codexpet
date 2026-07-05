@@ -1,0 +1,6 @@
+{
+  "id": "terminal-gremlin",
+  "displayName": "Terminal Gremlin",
+  "description": "A small terminal-screen companion that breathes, thinks, waits, works, celebrates, and glitches through Codex tasks.",
+  "spritesheetPath": "spritesheet.webp"
+}
